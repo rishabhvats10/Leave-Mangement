@@ -11,4 +11,4 @@ Salary: Admin also has the authority to calculate the net salary for each employ
 
 Leave apply: The employees can even apply for leave using the system. There are only a limited leaves in a month. Exceeding the limit n employee cannot apply for leave. The leave notification will be sent to the Admin. 
 
-Reports: The Admin has a special feature of viewing periodic reports like the number of tasks assigned, number of tasks completed, salary report etc.  Logout: This module allows the user to Logout the application. Further operations cannot be performed after user exits.
+Logout: This module allows the user to Logout the application. Further operations cannot be performed after user exits.
